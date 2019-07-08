@@ -1,0 +1,15 @@
+{
+  "name": "node-mysql",
+  "version": "1.0.0",
+  "description": "connecting a databases to a node",
+  "main": "API.js",
+  "scripts": {
+    "start": "nodemon API.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pablo",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.17.1"
+  }
+}
